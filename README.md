@@ -1,7 +1,7 @@
 # AiCar
 Apka do uczenia sieci neuronowej jazdy samochodem. 08.2023
 # Środowisko
-Pycharm
+Pycharm\
 NEAT
 # Źródła
 Połączenie dwóch projektów:
